@@ -1,4 +1,4 @@
-# WindFarmDemo - clone of hudikm/WindFarmDemo (https://github.com/hudikm/WindFarmDemo), for the purpouse of the semestral lecture.
+# WindFarmDemo
 Web application si located here: [windfarm demo](https://github.com/simonko1811/WindFarmDemoWeb).
 
 [Documentation(Slovak)](https://simonko1811.github.io/index.html)
